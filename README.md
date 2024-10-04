@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiz siddique</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
-<img alinn="right"alt="coding" width="400" src="https://www.google.com/search?q=animated+coding+gif&rlz=1C1ONGR_enIN1107IN1107&oq=animated&gs_lcrp=EgZjaHJvbWUqDAgBEAAYQxiABBiKBTIMCAAQRRg5GLEDGIAEMgwIARAAGEMYgAQYigUyCggCEAAYsQMYgAQyCggDEAAYsQMYgAQyCggEEAAYsQMYgAQyBwgFEAAYgAQyCggGEAAYsQMYgAQyCggHEAAYsQMYgAQyBwgIEAAYjwIyBwgJEAAYjwLSAQg1OTcyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#vhid=uYYa30tHbsaH2M&vssid=l">
+<img alinn="right"alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sfaiz801&label=Profile%20views&color=0e75b6&style=flat" alt="sfaiz801" /> </p>
 
