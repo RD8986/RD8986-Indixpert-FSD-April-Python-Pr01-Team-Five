@@ -1,7 +1,7 @@
 import json
 import os
-from USER import User
-from COLORS import Colors
+from SRC.USER import User
+from SRC.COLORS import Colors
 
 USERS_FILE = os.path.join('database', 'users.json')
 
@@ -17,8 +17,11 @@ class AuthenticationSystem:
         return {}
 
     def save_users(self):
+        # Ensure the database directory exists
+        os.makedirs(os.path.dirname(USERS_FILE), exist_ok=True)  # Create the directory if it doesn't exist
         with open(USERS_FILE, "w") as file:
             json.dump(self.users, file, indent=4)
+
 
     def find_admin(self):
         for username, user_data in self.users.items():

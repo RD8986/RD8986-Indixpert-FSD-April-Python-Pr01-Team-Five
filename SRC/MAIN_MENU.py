@@ -1,7 +1,8 @@
-from AUTHENTICATION_SYSTEM import AuthenticationSystem
-from INVENTORY_MANAGEMENT_SYSTEM import InventoryManagementSystem
-from ADMIN_SYSTEM import AdminSystem
-from COLORS import Colors
+from SRC.AUTHENTICATION_SYSTEM import AuthenticationSystem
+from SRC.INVENTORY_MANAGEMENT_SYSTEM import InventoryManagementSystem
+from SRC.ADMIN_SYSTEM import AdminSystem
+from SRC.COLORS import Colors
+
 
 def display_menu(current_user=None):
     if current_user is None:

@@ -1,8 +1,8 @@
 import json
 import os
 import datetime
-from PRODUCT import Product
-from COLORS import Colors
+from SRC.PRODUCT import Product
+from SRC.COLORS import Colors
 
 PRODUCTS_FILE = os.path.join('database', 'products.json')
 HISTORY_FILE = os.path.join('database', 'history.json')
